@@ -10,7 +10,7 @@ import java.net.SocketException;
 /**
  * Server class to respond to client requests.
  * 
- * To adere to school policy, code is only available to employers upon request. 
+ * To adere to school policy, complete code is only available to employers upon request. 
  *
  * @author Stephanie Shinn
  *

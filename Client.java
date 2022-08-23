@@ -9,7 +9,7 @@ import java.net.Socket;
  * Client class creates and sends client socket requests for Favorite Guitars 1
  * through 4.
  * 
- * To adere to school policy, code is only available to employers upon request. 
+ * To adere to school policy, complete code is only available to employers upon request. 
  *
  * @author Stephanie Shinn
  *
