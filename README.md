@@ -1,2 +1,2 @@
 # ClientAndServerSockets
-Assigns ports and passes values using "Waiting Best Practices" to maintain chronological order.
+Assigns ports to Client and Server, then passes four values from Client port to Server port. Server passes back client values and response messages. Used multithreading to pass values, and “Waiting Best Practices” to maintain chronological order. Captured traffic on Wireshark loopback, and showed messages sent back and forth through the TCP Payload. (To adhere to school policy, the code, output, and Wireshark results available to employers upon request.)
