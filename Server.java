@@ -10,7 +10,8 @@ import java.net.SocketException;
 /**
  * Server class to respond to client requests.
  * 
- * 
+ * To adere to school policy, code is only available to employers upon request. 
+ *
  * @author Stephanie Shinn
  *
  */
